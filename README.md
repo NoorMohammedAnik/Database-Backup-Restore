@@ -7,3 +7,6 @@ The database is very simple and you can add students' information and the exams 
 Please be aware tha you need to create to connect the Google Drive API in the [Google Cloud Console](https://console.developers.google.com/start/api?id=drive&credential=client_key). More information can be found [here](https://developers.google.com/drive/android/auth#connecting_and_authorizing_the_google_drive_android_api)
 
 This repo contains the code from the presentation: ["How to deal with backup & restore on Android](https://speakerdeck.com/prof18/how-to-deal-with-backup-and-restore-on-android-1) (The code is slighty different from the presentation)
+
+More Details
+https://www.raywenderlich.com/5144-integrating-google-drive-in-android
